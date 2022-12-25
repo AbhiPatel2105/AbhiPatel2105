@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @AbhiPatel2105
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m Computer Engineering graduate from L.D college of Engineering.
+- 🌱 I’m currently Working in IT company as Software Engineer..
+- 📫 You can reach me through email metioned in Bio of github profile.
 
 <!---
 AbhiPatel2105/AbhiPatel2105 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
